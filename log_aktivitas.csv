@@ -1,0 +1,80 @@
+Username,Waktu,Aksi,Detail
+baba,2025-11-17 11:23:31,Input Biaya Bahan,Total: 47600.0
+baba,2025-11-17 11:24:19,Input Biaya Tenaga Kerja,Total: 125000.0
+baba,2025-11-17 11:24:30,Input Biaya Operasional,Total: 20000.0
+baba,2025-11-17 11:24:43,Update Biaya,Ubah Biaya Bahan
+baba,2025-11-17 11:27:01,Update Biaya,Ubah Biaya Bahan
+cici,2025-11-18 21:51:52,Input Biaya Bahan,Total: 43000.0
+cici,2025-11-18 21:52:05,Input Biaya Tenaga Kerja,Total: 0.0
+cici,2025-11-18 21:52:14,Input Biaya Operasional,Total: 100000.0
+cici,2025-11-18 21:52:39,Update Biaya Tenaga Kerja,"Nilai lama: 0.0, Nilai baru: 12000.0"
+cici,2025-11-18 21:52:53,Input Jumlah Panen,100.0 kg
+cici,2025-11-18 21:52:58,Prediksi Keuntungan,Hasil: 1045000.0
+cici,2025-11-18 21:53:54,Lihat Riwayat,User membuka riwayat
+vivi,2025-11-19 10:03:31,Lihat Riwayat,User membuka riwayat
+vivi,2025-11-19 10:04:42,Input Biaya Bahan,Total: 220000.0
+vivi,2025-11-19 10:05:28,Input Biaya Tenaga Kerja,Total: 182500000.0
+vivi,2025-11-19 10:05:53,Input Biaya Operasional,Total: 100000.0
+vivi,2025-11-19 10:07:09,Update Biaya Bahan,"Nilai lama: 220000.0, Nilai baru: 250000.0"
+vivi,2025-11-19 10:08:32,Input Biaya Bahan,Total: 100003.0
+vivi,2025-11-19 10:08:58,Input Jumlah Panen,100004.0 kg
+vivi,2025-11-19 10:09:03,Prediksi Keuntungan,Hasil: 1017347997.0
+vivi,2025-11-19 10:09:18,Lihat Riwayat,User membuka riwayat
+vivi,2025-11-19 10:17:04,Lihat Riwayat,User membuka riwayat
+vivi,2025-11-19 10:17:39,Input Biaya Operasional,Total: 100000.0
+vivi,2025-11-19 10:18:08,Input Biaya Bahan,Total: 4.0
+vivi,2025-11-19 10:18:12,Input Biaya Tenaga Kerja,Total: 1.0
+vivi,2025-11-19 10:18:16,Input Biaya Operasional,Total: 1.0
+vivi,2025-11-19 10:18:34,Input Jumlah Panen,1.0 kg
+vivi,2025-11-19 10:18:38,Prediksi Keuntungan,Hasil: 6994.0
+vivi,2025-11-19 10:19:20,Prediksi Keuntungan,Hasil: 6994.0
+vivi,2025-11-19 10:19:25,Prediksi Keuntungan,Hasil: 6994.0
+vivi,2025-11-19 10:19:27,Prediksi Keuntungan,Hasil: 6994.0
+vivi,2025-11-19 10:19:28,Prediksi Keuntungan,Hasil: 6994.0
+vivi,2025-11-19 10:20:11,Prediksi Keuntungan,Hasil: 6994.0
+vivi,2025-11-19 10:20:13,Prediksi Keuntungan,Hasil: 6994.0
+vivi,2025-11-22 09:46:27,Input Biaya Bahan,Total: 35565.0
+vivi,2025-11-22 09:46:46,Input Biaya Tenaga Kerja,Total: 35057057845369.0
+vivi,2025-11-22 09:46:52,Input Biaya Operasional,Total: 3131.0
+vivi,2025-11-22 09:47:16,Input Jumlah Panen,10000.0 kg
+vivi,2025-11-22 09:47:21,Prediksi Keuntungan,Hasil: -35056957884065.0
+vivi,2025-11-22 09:47:28,Lihat Riwayat,User membuka riwayat
+vivi,2025-11-22 10:07:26,Input Biaya Bahan,Total: 267787.0
+vivi,2025-11-22 10:08:02,Input Biaya Operasional,Total: 131333.0
+vivi,2025-11-22 10:08:49,Input Jumlah Panen,100000.0 kg
+vivi,2025-11-22 10:10:07,Input Biaya Tenaga Kerja,Total: 236797632.0
+vivi,2025-11-22 10:10:11,Prediksi Keuntungan,Hasil: 762803248.0
+vivi,2025-11-22 10:10:19,Input Biaya Operasional,Total: 322222.0
+vivi,2025-11-22 10:10:22,Prediksi Keuntungan,Hasil: 762612359.0
+vivi,2025-11-22 10:24:04,Prediksi Keuntungan,Hasil: 762612359.0
+vivi,2025-11-22 10:26:17,Input Biaya Bahan,Total: 1358999.0
+vivi,2025-11-22 10:26:43,Input Biaya Tenaga Kerja,Total: 149377284.0
+vivi,2025-11-22 10:27:31,Input Jumlah Panen,1200.0 kg
+vivi,2025-11-22 10:28:24,Input Biaya Operasional,Total: 120000.0
+vivi,2025-11-22 10:28:28,Prediksi Keuntungan,"Hasil: Rp-136,456,283.00"
+vivi,2025-11-22 10:28:37,Lihat Riwayat,User membuka riwayat
+vivi,2025-11-24 19:33:46,Input Biaya Bahan Produksi,"Komoditas: padi, Nilai: 35333.0"
+vivi,2025-11-24 19:41:57,Input Biaya Bahan Produksi,"Komoditas: padi, Nilai: 119800.0"
+vivi,2025-11-24 19:42:13,Input Biaya Bahan Produksi,"Komoditas: jagung, Nilai: 22000.0"
+vivi,2025-11-24 19:42:34,Input Biaya Tenaga Kerja,"Komoditas: jagung, Nilai: 6000000.0"
+vivi,2025-11-24 19:43:22,Input Jumlah Panen,"Komoditas: jagung, 10999.0 kg"
+vivi,2025-11-24 19:48:59,Input Biaya Bahan Produksi,"Komoditas: jagung, Nilai: 193568.0"
+vivi,2025-11-24 19:49:12,Input Biaya Bahan Produksi,"Komoditas: jagung, Nilai: 2152370.0"
+vivi,2025-11-24 19:49:33,Input Biaya Bahan Produksi,"Komoditas: padi, Nilai: 28960.0"
+vivi,2025-11-24 19:49:45,Input Biaya Tenaga Kerja,"Komoditas: padi, Nilai: 186669774158868.0"
+vivi,2025-11-24 19:49:53,Input Biaya Operasional,"Komoditas: padi, Nilai: 333.0"
+baba,2025-11-24 20:01:23,Input Biaya Bahan Produksi,"Komoditas: padi, Nilai: 328149.0"
+baba,2025-11-24 20:01:32,Input Biaya Bahan Produksi,"Komoditas: padi, Nilai: 3608808.0"
+baba,2025-11-24 20:02:50,Lihat Riwayat,User membuka riwayat
+baba,2025-11-24 20:03:09,Input Biaya Bahan Produksi,"Komoditas: jagung, Nilai: 215576.0"
+vivi,2025-11-26 14:10:11,Lihat Riwayat,User membuka riwayat
+vivi,2025-11-26 14:40:27,Lihat Riwayat,User membuka riwayat
+vivi,2025-11-26 14:40:47,Lihat Riwayat,User membuka riwayat
+vivi,2025-11-27 15:25:32,Lihat Riwayat,User membuka riwayat
+vivi,2025-11-27 15:26:14,Lihat Riwayat,User membuka riwayat
+lutza,2025-11-27 15:30:27,Input Biaya Bahan,Total: 66000.0
+lutza,2025-11-27 15:30:48,Input Biaya Tenaga Kerja,Total: 6000000.0
+lutza,2025-11-27 15:30:59,Input Biaya Operasional,Total: 1000000.0
+lutza,2025-11-27 15:31:18,Input Jumlah Panen,12000.0 kg
+lutza,2025-11-27 15:31:22,Prediksi Keuntungan,"Hasil: Rp136,934,000.00"
+lutza,2025-11-27 15:31:41,Lihat Riwayat,User membuka riwayat
