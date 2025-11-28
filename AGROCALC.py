@@ -70,8 +70,15 @@ def login():
     os.system('cls')
     print('==================== LOGIN ====================')
     print('             Ayo masuk ke akun anda!           \n')
+    print('Tekan 0 jika ingin kembali ke menu utama.\n')  # <-- Tambahkan instruksi ini
+
     akun = pd.read_csv('data_pengguna.csv')
     username = input('Masukkan username : ').strip()
+    
+    if username == '0':  # <-- Cek jika user ingin kembali
+        tampilanawal()
+        return
+
     password = input('Masukkan password : ').strip()
 
     if username == 'admin' and password == '123':
@@ -94,7 +101,7 @@ def login():
             print('Username tidak ditemukan!')
             input('Enter untuk kembali melakukan Login')
             login()
-
+            
 def menu_admin():
     os.system('cls')
     print('══════════════════════════๑ஓஓ๑♡๑ஓஓ๑════════════════════════')
