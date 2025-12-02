@@ -70,12 +70,12 @@ def login():
     os.system('cls')
     print('==================== LOGIN ====================')
     print('             Ayo masuk ke akun anda!           \n')
-    print('Belum memiliki akun? Tekan 0 jika ingin kembali ke menu utama.\n')  # <-- Tambahkan instruksi ini
+    print('Tekan 0 jika ingin kembali ke menu utama.\n')
 
     akun = pd.read_csv('data_pengguna.csv')
     username = input('Masukkan username : ').strip()
     
-    if username == '0':  # <-- Cek jika user ingin kembali
+    if username == '0':
         tampilanawal()
         return
 
@@ -101,7 +101,7 @@ def login():
             print('Username tidak ditemukan!')
             input('Enter untuk kembali melakukan Login')
             login()
-            
+
 def menu_admin():
     os.system('cls')
     print('══════════════════════════๑ஓஓ๑♡๑ஓஓ๑════════════════════════')
