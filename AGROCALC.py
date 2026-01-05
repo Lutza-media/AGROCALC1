@@ -111,7 +111,7 @@ def menu_admin():
     print('||                  3. Hapus Komoditas                     ||')
     print('||                  4. Ubah Komoditas                      ||')
     print('||                  5. Lihat Daftar Pengguna               ||')
-    print('||                  6. Keluar                              ||')
+    print('||                  6. Out                                 ||')
     print('══════════════════════════๑ஓஓ๑♡๑ஓஓ๑════════════════════════')
     pilihan = input("Masukkan pilihan anda: ").lower()
     if pilihan == '1' or pilihan == 'lihat daftar komoditas':
@@ -167,8 +167,8 @@ def tambah_komoditas():
             print('Daftar komoditas berhasil ditambahkan!')
             
         except ValueError:
-            print("Harga harus berupa angka")
-            input("Tekan enter untuk mengulang")
+            print("Harus Berupa Angka")
+            input("Tekan enter untuk ulang")
             tambah_komoditas()
 
     lagi = input(
