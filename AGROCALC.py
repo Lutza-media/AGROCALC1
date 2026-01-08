@@ -111,7 +111,7 @@ def menu_admin():
     print('||                  3. Hapus Komoditas                     ||')
     print('||                  4. Ubah Komoditas                      ||')
     print('||                  5. Lihat Daftar Pengguna               ||')
-    print('||                  6. Out                                 ||')
+    print('||                  6. Keluar                              ||')
     print('══════════════════════════๑ஓஓ๑♡๑ஓஓ๑════════════════════════')
     pilihan = input("Masukkan pilihan anda: ").lower()
     if pilihan == '1' or pilihan == 'lihat daftar komoditas':
